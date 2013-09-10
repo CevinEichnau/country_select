@@ -250,7 +250,6 @@ module CountrySelect
     "ye"=>"Jemen",
     "zm"=>"Sambia",
     "zw"=>"Simbabwe"
-}
 } unless const_defined?("COUNTRIES")
 
   ISO_COUNTRIES_FOR_SELECT = COUNTRIES.invert unless const_defined?("ISO_COUNTRIES_FOR_SELECT")
