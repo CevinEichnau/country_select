@@ -1,4 +1,4 @@
-# Rails – Country Select
+# Rails – Country Select German
 [![Build Status](https://travis-ci.org/stefanpenner/country_select.png?branch=master)](https://travis-ci.org/stefanpenner/country_select)
 
 Provides a simple helper to get an HTML select list of countries using the
@@ -19,12 +19,12 @@ to evaluate the suitability of this list given their user base.
 Install as a gem using
 
 ```shell
-gem install country_select
+gem install country_select_german
 ```
 Or put the following in your Gemfile
 
 ```ruby
-gem 'country_select'
+gem 'country_select_german'
 ```
 
 ## Example
